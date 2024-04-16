@@ -21,7 +21,7 @@ Define, diseña y programa las fases del analizador léxico y sintáctico de un 
 # Tema 2
 ## Actividades
 
-| Tarea 2.1     | Tarea 2.2 |  
-|------------------|--------------|
-| [Expresiones Regulares](https://github.com/CitlaliMartinez08/LenguajesYAutomatas/blob/master/Tareas_Tema2/Tarea2.1.pdf) |  |  
-|19  de marzo|---|
+| Tarea 2.1     | Tarea 2.2 | Tarea 2.3 |
+|------------------|--------------|--------------|
+| [Expresiones Regulares](https://github.com/CitlaliMartinez08/LenguajesYAutomatas/blob/master/Tareas_Tema2/Tarea2.1.pdf) | [Práctica](https://github.com/CitlaliMartinez08/LenguajesYAutomatas/blob/master/Tareas_Tema2/Tarea2.2.pdf) |[Expresiones regulares ejemplos]()  |
+|19  de marzo|16 de abril|16 de abril|
