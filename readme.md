@@ -25,3 +25,10 @@ Define, diseña y programa las fases del analizador léxico y sintáctico de un 
 |------------------|--------------|--------------|
 | [Expresiones Regulares](https://github.com/CitlaliMartinez08/LenguajesYAutomatas/blob/master/Tareas_Tema2/Tarea2.1.pdf) | [Práctica](https://github.com/CitlaliMartinez08/LenguajesYAutomatas/blob/master/Tareas_Tema2/Tarea2.2.pdf) |[Expresiones regulares ejemplos](https://github.com/CitlaliMartinez08/LenguajesYAutomatas/blob/master/Tareas_Tema2/Tarea2.3.pdf)  |
 |19  de marzo|16 de abril|16 de abril|
+
+# Tema 3
+## Tareas
+| Tarea 3.1     | Tarea  | Tarea  |
+|------------------|--------------|--------------|
+| [Diagramas](https://github.com/CitlaliMartinez08/LenguajesYAutomatas/blob/master/Tareas_Tema3/Tarea3.1.pdf) | [----] |[-------]  |
+|24 de abril|-----|------|
