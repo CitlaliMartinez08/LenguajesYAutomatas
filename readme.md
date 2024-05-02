@@ -28,7 +28,7 @@ Define, diseña y programa las fases del analizador léxico y sintáctico de un 
 
 # Tema 3
 ## Tareas
-| Tarea 3.1     | Tarea  | Tarea  |
+| Tarea 3.1     | Tarea 3.2| Tarea  |
 |------------------|--------------|--------------|
-| [Diagramas](https://github.com/CitlaliMartinez08/LenguajesYAutomatas/blob/master/Tareas_Tema3/Tarea3.1.pdf) | [----] |[-------]  |
-|24 de abril|-----|------|
+| [Diagramas](https://github.com/CitlaliMartinez08/LenguajesYAutomatas/blob/master/Tareas_Tema3/Tarea3.1.pdf) |  [Automatas finitos](https://github.com/CitlaliMartinez08/LenguajesYAutomatas/blob/master/Tareas_Tema3/Tarea3.2.pdf)|------|
+|24 de abril|2 de mayo|------|
