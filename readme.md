@@ -36,6 +36,6 @@ Define, diseña y programa las fases del analizador léxico y sintáctico de un 
 # Tema 6
 ## Tareas
 | Tarea 6.1     | Tarea 6.2|
-|------------------|--------------|
+|------------------|----------------|
 | [Mapa Conceptual](https://github.com/CitlaliMartinez08/LenguajesYAutomatas/blob/master/Tareas_Tema6/Tarea6.1.pdf) | [Maquina de Turing](https://github.com/CitlaliMartinez08/LenguajesYAutomatas/blob/master/Tareas_Tema6/Tarea6.2.pdf)|
 |7 de junio|11 de junio|
